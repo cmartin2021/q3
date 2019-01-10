@@ -7,3 +7,9 @@ h1	{
 h3	{
 	color:gray;
 }
+img	{
+	border: 250;
+	width:	50;
+	border-style: 72;
+	border-color:#0068FF;
+}
