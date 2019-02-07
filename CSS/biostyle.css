@@ -1,15 +1,71 @@
-p	{
-	color:navy;
+.name	{
+	color:black;
+	font-size:80px;
 }
-h1	{
+.namesub	{
 	color:black;
 }
-h3	{
-	color:gray;
+.numberone	{
+	color: #296D27  ;
+	font-size: 40px
+
 }
+.friendp	{
+	color:#296D27  ;
+	font-size:20px;
+}
+.numbertwo	{
+	color:blue;
+	font-size: 40px;
+}
+.sonp	{
+	color:blue;
+	font-size:20px;
+}
+.numberthree	{
+	color:red;
+	font-size:40px;
+
+}
+.studentp	{
+	color:red;
+	font-size:20px;
+}
+.numberfour	{
+	color:purple;
+	font-size:40px;
+}
+.brotherp	{
+	color:purple;
+	font-size:20px;
+}
+.wrapper	{
+	width:95%;
+	margin:0 auto;
+	background-color:orange;
+}
+
+footer{
+	text-align: center;
+}
+
 img	{
-	border:6px;
-	width:80%;
-	border-style:dashed;
-	border-color:#0068FF;
+	width:200px;
+	border-style: solid;
+	border-color: black 
+}
+body {
+	background-color: #00FFD1   
+}
+
+h3	{
+	text-align: center;
+}
+
+h1	{
+	text-align: center;
+}
+
+h2	{
+	text-align: center;
 }

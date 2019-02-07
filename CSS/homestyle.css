@@ -1,0 +1,30 @@
+p	{
+	color: purple;
+	text-align: center;
+}
+h1	{
+	color: red;
+	text-align: center;
+}
+h2	{
+	color: purple;
+	text-align: center;
+}
+
+body {
+background-color: #00FFDC
+}
+
+.wrapper	{
+	width: 75%
+	background-color: red;
+	margin: 0 auto;
+}
+
+img	{
+	width:500px;
+	border:solid;
+	border-color: black;
+
+
+}
