@@ -50,7 +50,7 @@ a {
 	border: black 2px solid;
 	padding: 10px;
 	margin:10px;
-	background-color: white;
+	background-color:red;
 	display: inline;
 	text-align: center;
 	font-size: 20px;
@@ -61,7 +61,7 @@ nav	{
 }
 
 a:link	{
-	color:white;
+	color:black;
 }
 
 a:hover	{
