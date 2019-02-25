@@ -17,7 +17,7 @@ h3 {
 	font-style: italic;
 }
 
-.floatl {
+.float1 {
 	float: left;
 }
 
@@ -54,6 +54,9 @@ footer	{
 	background-color: #aa0000;
 	text-align: center;
 	color: white;
+	width:80%;
+	margin:0 auto;
+	padding:15px;
 	
 }
 
@@ -64,4 +67,22 @@ footer	{
 
 .cleared2	{
 	display: flow-root;
+}
+
+.floatl	{
+	float:left;
+}
+
+.floatr	{
+	float:right;
+}
+
+.colr {
+	float: right;
+	width: 45%;
+}
+
+.coll	{
+	float: left;
+	width:45%;
 }

@@ -1,0 +1,172 @@
+h1	{
+	text-align: center;
+	text-decoration: underline;
+}
+
+h2	{
+	text-align: center;
+}
+
+h3	{
+	text-align: center;
+}
+
+body	{
+	background-color:#5FD001;
+}
+
+.finished {
+	margin-right:50%; 
+	margin-left:28%;
+	width: 500px;
+	border:5px solid orange;
+
+}
+
+.sauce	{
+	text-align: left;
+}
+
+.cleared {
+	display: flow-root;
+}
+
+.wrapper	{
+	width: 90%;
+	margin: 0 auto;
+	border:5px black solid;
+	padding:20px;
+	background-color: purple;
+}
+
+.coll	{
+	float: left;
+	width:42%;
+
+}
+
+.colr {
+	float: right;
+	width: 42%;
+	
+}
+
+.ingredients	{
+	color:yellow;
+}
+
+.ingredientstitle	{
+	color:purple;
+}
+
+.instructions	{
+	color: yellow;
+}
+
+.instructions	{
+	color: purple;
+}
+
+.title	{
+	text-align: left;
+}
+.cleared2	{
+	display: flow-root;
+}
+
+.floatl	{
+	float:left;
+	
+}
+
+.floatr	{
+	float:right;
+
+}
+
+.bowl	{
+	width:200px;
+	border: 5px	solid purple;
+
+}
+
+footer	{
+	background-color: orange;
+	text-align: center;
+	color: purple;
+	width:90%;
+	margin:0 auto;
+	padding:15px;
+	border:10px solid black;
+}
+
+a {
+	border: black 2px solid;
+	padding: 10px;
+	margin:10px;
+	background-color: orange;
+	display: inline;
+	text-align: center;
+	font-size: 20px;
+}
+
+nav{
+	text-align: center;
+}
+
+a:link	{
+	color: #09FBFF;
+}
+
+a:hover	{
+	color:#FF09E5;
+}
+
+a:visited	{
+	color: black;
+}
+
+a:active	{
+	color:#50FF09;
+}
+
+video	{
+	width:200px;
+	border: 5px	solid purple;
+}
+
+.li1	{
+	color:purple;
+	font-size: 35px;
+	font-style: italic;
+}
+
+.li2	{
+	color:#009BFF;
+	font-size: 35px;
+	font-style: italic;
+}
+
+.p1	{
+	color:purple;
+	font-size: 20px;
+}
+
+.p2	{
+	color:#009BFF;
+	font-size: 20px;
+}
+
+.rolls	{
+	background-color:#009BFF; 
+}
+
+.tahini	{
+	background-color:purple;
+	
+}
+
+section	{
+	background-color:orange;
+	padding:10px;
+}
